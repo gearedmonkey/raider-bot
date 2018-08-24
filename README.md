@@ -1,1 +1,2 @@
-# raider-bot
+# "Raider-Bot"
+The best raider bot around.
